@@ -1,1 +1,3 @@
-I am doing a cousrse IBM data science on coursera. These are some of the exercises i have uploaded.
+Course: IBM Data Science on Coursera
+
+Assignment Title: Uploading Exercises to GitHub
